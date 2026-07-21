@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
@@ -22,6 +23,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 
 ### implementation
@@ -29,6 +31,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 
 ### strings
 
