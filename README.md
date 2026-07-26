@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 4 |
+| 6 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
 - [math](#math) (2)
 - [strings](#strings) (2)
@@ -24,7 +25,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/231/A%20-%20Team/solution.c) |
 
 ### implementation
 
