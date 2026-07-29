@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 6 |
+| 9 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (3)
 - [strings](#strings) (2)
 
@@ -48,6 +48,7 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.c) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.c) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 
 ### math
