@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 5 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -37,6 +37,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
 
 ### math
@@ -50,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 
 ---
 
