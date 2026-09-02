@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 7 |
 
 ---
 
@@ -14,9 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (3)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (4)
 - [math](#math) (1)
-- [strings](#strings) (2)
+- [sortings](#sortings) (1)
+- [strings](#strings) (3)
 
 ---
 
@@ -32,6 +34,12 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -39,6 +47,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 
 ### math
 
@@ -46,12 +55,19 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 
 ---
 
