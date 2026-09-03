@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 7 |
+| 6 | 7 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 
 ---
 
@@ -47,6 +47,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 
 ### math
@@ -67,6 +68,7 @@
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
+| 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/Kalpesh-ops/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 
 ---
